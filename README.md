@@ -14,11 +14,11 @@ My proficiency includes:
 --- 
 
 #### Connect with Me
-&bull; <a href="https://github.com/mariuspetrov/" target="_blank">Portfolio</a>
+&bull; [Codebase](https://github.com/mariuspetrov)
 <br>
-&bull; <a href="https://www.linkedin.com/in/marius-petrov/" target="_blank">Linkedin</a>
+&bull; [Linkedin](https://www.linkedin.com/in/marius-petrov)
 <br>
-&bull; <a href="https://www.instagram.com/m8.dev/" target="_blank">Instagram</a>
+&bull; [Instagram](https://www.instagram.com/mariuspetrovdev)
 
 
 <!--
