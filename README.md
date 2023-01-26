@@ -4,7 +4,7 @@
 
 --- 
 
-I'm a web developer with a comprehensive understanding of all aspects of web development. 
+As a web developer, I have a complete and detailed understanding of all the elements that make up the web development process. From front-end development using HTML, CSS, and JavaScript, to back-end development utilizing various programming languages, I have a well-rounded grasp of the field. Additionally, my understanding extends to the latest web development trends, frameworks, and tools, allowing me to create modern and cutting-edge websites and applications.
 
 My proficiency includes:
 - creating visually appealing designs
