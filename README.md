@@ -4,7 +4,7 @@
 
 --- 
 
-I am a highly skilled web developer with a comprehensive understanding of all aspects of web development. 
+I'mm a web developer with a comprehensive understanding of all aspects of web development. 
 
 My proficiency includes:
 - creating visually appealing designs
