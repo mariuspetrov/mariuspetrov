@@ -13,6 +13,12 @@ My proficiency includes:
 
 --- 
 
+#### GitHub Activity
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mariuspetrov&theme=radical)
+
+--- 
+
 #### Connect with Me
 &bull; [Codebase](https://github.com/mariuspetrov)
 <br>
