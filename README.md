@@ -11,11 +11,13 @@ My proficiency includes:
 - crafting user-friendly interfaces
 - developing the backend software that powers the application
 
+<!--
 --- 
 
 #### GitHub Activity
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mariuspetrov&theme=radical&count_private=true&hide=stars,contribs)
+-->
 
 --- 
 
